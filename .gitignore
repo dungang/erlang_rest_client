@@ -1,0 +1,7 @@
+*.beam
+*.o
+*.so
+.built
+.got
+.idea
+erlang_rest_client.iml
